@@ -19,7 +19,7 @@
 </head>
 <body>
     <br>
-    <p style='color:red'>";
+    <p style='color:red'>
     <?php
         echo "ความยาว เท่ากับ ".$length."<br>";
         echo "ความกว้าง เท่ากับ ".$width."<br>";

@@ -1,0 +1,14 @@
+github.com/tbinkasem/django-myweb
+
+github.com/tbinkasem/django-LoginSystem
+
+
+django-admin startproject LoginSystem
+
+py manage.py startapp users
+
+py manage.py makemigratons
+
+py manage.py migrate
+
+py manage.py createsuperuser
